@@ -1,0 +1,13 @@
+github: [octocat, devGuru]           # Example GitHub Sponsors usernames
+patreon: openSourceFlow              # A realistic Patreon username
+open_collective: OpenCollectiveHub   # A believable Open Collective handle
+ko_fi: codeCrafted                  # An example Ko-fi username
+tidelift: npm/awesome-lib           # A sample Tidelift identifier (platform/package)
+community_bridge: communityDev      # A plausible Community Bridge project name
+liberapay: devFunds                 # A credible Liberapay username
+issuehunt: issueHero                # A realistic IssueHunt username
+lfx_crowdfunding: openDevInitiative # A plausible LFX Crowdfunding project name
+polar: polarProject                 # An example Polar username
+buy_me_a_coffee: coffeeFuel         # A believable Buy Me a Coffee username
+thanks_dev: thanks4dev              # A plausible thanks.dev username
+custom: [https://openproject.org/donate, https://support.openproject.org]  # Custom sponsorship URLs
